@@ -14,3 +14,4 @@ function linearSearch(arr) {
  }
 }
 //just pushing cause i havent in forever
+//commit
