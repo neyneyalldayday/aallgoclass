@@ -26,3 +26,4 @@ function linearSearch(arr) {
 //yeah man
 //eeeeshit
 //doooooop
+//grading some stuuf
